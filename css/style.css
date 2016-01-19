@@ -12,7 +12,7 @@ body {
 header {
     width: 100%;
     padding: 10px 15px;
-    background-image: url("/images/moonflower.png");
+    background-image: url("../images/moonflower.png");
     background-position: right;
     background-repeat: no-repeat;
     background-color: #80B7B3;
